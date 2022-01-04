@@ -1,0 +1,1 @@
+puts "Happy, happy, joy, joy."
